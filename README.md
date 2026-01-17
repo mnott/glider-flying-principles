@@ -10,7 +10,7 @@ This course material is based on original training documentation for glider pilo
 
 ## Course Structure
 
-This course is organized into 8 progressive lessons, each building on concepts from previous topics:
+This course is organized into 10 progressive lessons, each building on concepts from previous topics:
 
 ### Foundation Concepts (Lessons 1-2)
 Understanding the environment and fundamental physical laws
@@ -18,10 +18,16 @@ Understanding the environment and fundamental physical laws
 ### Aerodynamic Forces (Lessons 3-4)
 How wings generate lift and the drag penalties that come with it
 
-### Flight Dynamics (Lessons 5-7)
-Aircraft behavior, control, and stability
+### Flight Mechanics (Lessons 5-6)
+Straight flight physics and turning flight dynamics
 
-### Advanced Topics (Lesson 8)
+### Safety Critical (Lesson 7)
+Stalls, spins, and recovery procedures
+
+### Control and Stability (Lessons 8-9)
+How pilots control aircraft and why aircraft return to equilibrium
+
+### Advanced Topics (Lesson 10)
 Propeller aerodynamics for powered gliders
 
 ---
@@ -79,7 +85,36 @@ The drag penalty for generating lift
 
 ---
 
-### 5. [Stalls and Spins](./lessons/05-stalls-and-spins.md)
+### 5. [Straight Flight](./lessons/05-straight-flight.md)
+The physics of rectilinear flight
+- Newton's laws of motion applied to flight
+- Horizontal straight and uniform flight (force equilibrium)
+- Stabilized gliding flight mechanics
+- Finesse (glide ratio) definition and calculation
+- Speed polar diagrams and characteristic points
+- Wing loading effects on performance
+- Finesse-sol (effective glide ratio in real conditions)
+
+**Key Concepts:** Force equilibrium means no movement change, finesse is km traveled per 1000m altitude, speed polar shows best speeds for different goals
+
+---
+
+### 6. [Turns and Load Factor](./lessons/06-turns-and-load-factor.md)
+The dynamics of non-rectilinear flight
+- Circular motion mechanics and centripetal force
+- Why there is no centrifugal force in turns
+- Forces on the aircraft in banked turns
+- Load factor definition (n = Rz/P)
+- Bank angle vs load factor relationship
+- Stall speed increase in turns (Vs × √n)
+- Turn polars and performance degradation
+- Spiral polars for thermal flying
+
+**Key Concepts:** Turns require centripetal force from tilted lift, load factor increases with bank angle, stall speed increases dramatically in steep turns
+
+---
+
+### 7. [Stalls and Spins](./lessons/07-stalls-and-spins.md)
 Critical safety knowledge for every pilot
 - Critical angle of attack and stall physics
 - Warning signs of approaching stall
@@ -93,7 +128,7 @@ Critical safety knowledge for every pilot
 
 ---
 
-### 6. [Control Surfaces](./lessons/06-control-surfaces.md)
+### 8. [Control Surfaces](./lessons/08-control-surfaces.md)
 How pilots control the aircraft
 - Three axes of rotation (pitch, roll, yaw)
 - Primary control surfaces (elevator, ailerons, rudder)
@@ -110,7 +145,7 @@ How pilots control the aircraft
 
 ---
 
-### 7. [Aircraft Stability](./lessons/07-aircraft-stability.md)
+### 9. [Aircraft Stability](./lessons/09-aircraft-stability.md)
 Why aircraft return to equilibrium after disturbances
 - Three types of equilibrium (stable, unstable, neutral)
 - Static vs dynamic stability
@@ -126,7 +161,7 @@ Why aircraft return to equilibrium after disturbances
 
 ---
 
-### 8. [Propeller Concepts](./lessons/08-propeller-concepts.md)
+### 10. [Propeller Concepts](./lessons/10-propeller-concepts.md)
 For self-launching gliders and touring motor gliders
 - Newton's third law and thrust generation
 - Propeller as rotating wings
@@ -178,6 +213,10 @@ Use this checklist to track your progress through the course:
 - [ ] Aerodynamic Forces
 - [ ] Induced Drag and Wing Geometry
 
+### Flight Mechanics
+- [ ] Straight Flight
+- [ ] Turns and Load Factor
+
 ### Safety
 - [ ] Stalls and Spins
 
@@ -200,10 +239,12 @@ Use this checklist to track your progress through the course:
     ├── 02-flow-laws-and-speeds.md
     ├── 03-aerodynamic-forces.md
     ├── 04-induced-drag-and-wing-geometry.md
-    ├── 05-stalls-and-spins.md
-    ├── 06-control-surfaces.md
-    ├── 07-aircraft-stability.md
-    └── 08-propeller-concepts.md
+    ├── 05-straight-flight.md
+    ├── 06-turns-and-load-factor.md
+    ├── 07-stalls-and-spins.md
+    ├── 08-control-surfaces.md
+    ├── 09-aircraft-stability.md
+    └── 10-propeller-concepts.md
 ```
 
 ---
@@ -311,4 +352,4 @@ The best pilots are those who understand the "why" behind every procedure, limit
 
 **Happy studying, and safe flying!**
 
-*Last updated: 2026-01-13*
+*Last updated: 2026-01-15*

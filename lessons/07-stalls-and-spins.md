@@ -290,8 +290,8 @@ Stalls and spins are critical safety topics with connections throughout aerodyna
 
 - **[Aerodynamic Forces](./03-aerodynamic-forces.md)** - Foundation: critical angle of attack and Cz,max
 - **[Induced Drag and Wing Geometry](./04-induced-drag-and-wing-geometry.md)** - Wing washout prevents tip stall
-- **[Control Surfaces](./06-control-surfaces.md)** - Uncoordinated controls can trigger spins
-- **[Aircraft Stability](./07-aircraft-stability.md)** - CG position affects stall behavior
+- **[Control Surfaces](./08-control-surfaces.md)** - Uncoordinated controls can trigger spins
+- **[Aircraft Stability](./09-aircraft-stability.md)** - CG position affects stall behavior
 
 ## External Resources
 
@@ -317,8 +317,8 @@ Stalls and spins are critical safety topics with connections throughout aerodyna
 
 ## Navigation
 
-**⬅ Previous Lesson:** [Induced Drag and Wing Geometry](./04-induced-drag-and-wing-geometry.md)
+**⬅ Previous Lesson:** [Turns and Load Factor](./06-turns-and-load-factor.md)
 
 **[⬆ Back to Course Overview](../README.md)**
 
-**➡ Next Lesson:** [Control Surfaces](./06-control-surfaces.md)
+**➡ Next Lesson:** [Control Surfaces](./08-control-surfaces.md)

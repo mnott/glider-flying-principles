@@ -463,9 +463,9 @@ At height = wingspan / 4:
 Wing geometry and induced drag connect to performance and design:
 
 - **[Aerodynamic Forces](./03-aerodynamic-forces.md)** - Foundation: lift generation creates induced drag
-- **[Stalls and Spins](./05-stalls-and-spins.md)** - Wingtip vortices and tip stall behavior
-- **[Control Surfaces](./06-control-surfaces.md)** - Adverse yaw from aileron-induced drag
-- **[Aircraft Stability](./07-aircraft-stability.md)** - Wing sweep and dihedral for stability
+- **[Stalls and Spins](./07-stalls-and-spins.md)** - Wingtip vortices and tip stall behavior
+- **[Control Surfaces](./08-control-surfaces.md)** - Adverse yaw from aileron-induced drag
+- **[Aircraft Stability](./09-aircraft-stability.md)** - Wing sweep and dihedral for stability
 
 ## External Resources
 
@@ -497,4 +497,4 @@ Wing geometry and induced drag connect to performance and design:
 
 **[⬆ Back to Course Overview](../README.md)**
 
-**➡ Next Lesson:** [Stalls and Spins](./05-stalls-and-spins.md)
+**➡ Next Lesson:** [Straight Flight](./05-straight-flight.md)

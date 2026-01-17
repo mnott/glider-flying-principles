@@ -380,7 +380,7 @@ Propeller concepts apply aerodynamic principles to powered gliders:
 - **[Flow Laws and Speeds](./02-flow-laws-and-speeds.md)** - Propeller blades are airfoils subject to flow laws
 - **[Aerodynamic Forces](./03-aerodynamic-forces.md)** - Blade sections generate lift (thrust)
 - **[Induced Drag and Wing Geometry](./04-induced-drag-and-wing-geometry.md)** - Blade twist similar to wing twist
-- **[Control Surfaces](./06-control-surfaces.md)** - Variable-pitch propellers change blade angle like flaps
+- **[Control Surfaces](./08-control-surfaces.md)** - Variable-pitch propellers change blade angle like flaps
 
 ## External Resources
 
@@ -407,6 +407,6 @@ Propeller concepts apply aerodynamic principles to powered gliders:
 
 ## Navigation
 
-**⬅ Previous Lesson:** [Aircraft Stability](./07-aircraft-stability.md)
+**⬅ Previous Lesson:** [Aircraft Stability](./09-aircraft-stability.md)
 
 **[⬆ Back to Course Overview](../README.md)**

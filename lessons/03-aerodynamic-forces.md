@@ -338,9 +338,9 @@ Understanding aerodynamic forces is central to all flight mechanics:
 
 - **[Flow Laws and Speeds](./02-flow-laws-and-speeds.md)** - Foundation: how Bernoulli's principle creates lift
 - **[Induced Drag and Wing Geometry](./04-induced-drag-and-wing-geometry.md)** - Additional drag from lift generation
-- **[Stalls and Spins](./05-stalls-and-spins.md)** - What happens when critical angle is exceeded
-- **[Control Surfaces](./06-control-surfaces.md)** - How control surfaces create forces and moments
-- **[Aircraft Stability](./07-aircraft-stability.md)** - How forces balance for stable flight
+- **[Stalls and Spins](./07-stalls-and-spins.md)** - What happens when critical angle is exceeded
+- **[Control Surfaces](./08-control-surfaces.md)** - How control surfaces create forces and moments
+- **[Aircraft Stability](./09-aircraft-stability.md)** - How forces balance for stable flight
 
 ## External Resources
 

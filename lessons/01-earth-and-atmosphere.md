@@ -245,7 +245,7 @@ Understanding the atmosphere is foundational for all other aerodynamics topics:
 - **[Flow Laws and Speeds](./02-flow-laws-and-speeds.md)** - How air density affects flow behavior and airspeed measurement
 - **[Aerodynamic Forces](./03-aerodynamic-forces.md)** - How air density affects lift and drag forces
 - **[Induced Drag and Wing Geometry](./04-induced-drag-and-wing-geometry.md)** - Air density effects on vortex formation
-- **[Stalls and Spins](./05-stalls-and-spins.md)** - How density altitude affects stall speed
+- **[Stalls and Spins](./07-stalls-and-spins.md)** - How density altitude affects stall speed
 
 ## External Resources
 

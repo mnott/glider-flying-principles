@@ -279,8 +279,8 @@ Flow laws and airspeed measurement connect to multiple aerodynamics concepts:
 - **[Earth and Atmosphere](./01-earth-and-atmosphere.md)** - Foundation: air density and atmospheric properties
 - **[Aerodynamic Forces](./03-aerodynamic-forces.md)** - How Bernoulli's principle creates lift
 - **[Induced Drag and Wing Geometry](./04-induced-drag-and-wing-geometry.md)** - Flow behavior around wingtips
-- **[Stalls and Spins](./05-stalls-and-spins.md)** - IAS relationship to stall speed
-- **[Control Surfaces](./06-control-surfaces.md)** - How control deflection affects flow
+- **[Stalls and Spins](./07-stalls-and-spins.md)** - IAS relationship to stall speed
+- **[Control Surfaces](./08-control-surfaces.md)** - How control deflection affects flow
 
 ## External Resources
 

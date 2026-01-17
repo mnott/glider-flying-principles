@@ -369,8 +369,8 @@ Stability ties together aerodynamic forces and design geometry:
 
 - **[Aerodynamic Forces](./03-aerodynamic-forces.md)** - Forces that must balance for stability
 - **[Induced Drag and Wing Geometry](./04-induced-drag-and-wing-geometry.md)** - Dihedral and sweep provide stability
-- **[Stalls and Spins](./05-stalls-and-spins.md)** - CG position affects stall/spin characteristics
-- **[Control Surfaces](./06-control-surfaces.md)** - Tail surfaces provide stabilizing forces
+- **[Stalls and Spins](./07-stalls-and-spins.md)** - CG position affects stall/spin characteristics
+- **[Control Surfaces](./08-control-surfaces.md)** - Tail surfaces provide stabilizing forces
 
 ## External Resources
 
@@ -397,8 +397,8 @@ Stability ties together aerodynamic forces and design geometry:
 
 ## Navigation
 
-**⬅ Previous Lesson:** [Control Surfaces](./06-control-surfaces.md)
+**⬅ Previous Lesson:** [Control Surfaces](./08-control-surfaces.md)
 
 **[⬆ Back to Course Overview](../README.md)**
 
-**➡ Next Lesson:** [Propeller Concepts](./08-propeller-concepts.md)
+**➡ Next Lesson:** [Propeller Concepts](./10-propeller-concepts.md)

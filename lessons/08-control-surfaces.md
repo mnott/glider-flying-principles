@@ -487,8 +487,8 @@ Control surfaces are the pilot's interface with aerodynamic forces:
 
 - **[Aerodynamic Forces](./03-aerodynamic-forces.md)** - How control deflection creates forces
 - **[Induced Drag and Wing Geometry](./04-induced-drag-and-wing-geometry.md)** - Aileron drag creates adverse yaw
-- **[Stalls and Spins](./05-stalls-and-spins.md)** - Uncoordinated controls at stall trigger spins
-- **[Aircraft Stability](./07-aircraft-stability.md)** - How control surfaces affect stability
+- **[Stalls and Spins](./07-stalls-and-spins.md)** - Uncoordinated controls at stall trigger spins
+- **[Aircraft Stability](./09-aircraft-stability.md)** - How control surfaces affect stability
 
 ## External Resources
 
@@ -515,8 +515,8 @@ Control surfaces are the pilot's interface with aerodynamic forces:
 
 ## Navigation
 
-**⬅ Previous Lesson:** [Stalls and Spins](./05-stalls-and-spins.md)
+**⬅ Previous Lesson:** [Stalls and Spins](./07-stalls-and-spins.md)
 
 **[⬆ Back to Course Overview](../README.md)**
 
-**➡ Next Lesson:** [Aircraft Stability](./07-aircraft-stability.md)
+**➡ Next Lesson:** [Aircraft Stability](./09-aircraft-stability.md)
